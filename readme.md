@@ -1,6 +1,8 @@
 Assalamu’alaikum…
 ================
 
+## _About me_
+
 Halo, perkenalkan nama saya [**Ikang
 Fadhli**](www.linkedin.com/in/mohammad-rizka-fadhli-101).
 
@@ -37,5 +39,15 @@ Banyak orang mengira bahwa seorang _data scientist_ selalu erat kaitannya dengan
 
 - Sadar atau tidak, efek dari digitalisasi ini adalah terciptanya data publik yang sangat banyak dan cepat. Tanpa kemampuan yang mumpuni, data tersebut hanya menjadi _bytes_ tanpa arti. Padahal bisa jadi _underlying pattern_ yang ada bisa sangat berguna bagi _desicion maker_.
 - Selain itu, perkembangan teknologi yang pesat memungkinkan algoritma untuk mengambil alih _well defined jobs_ yang kadangkala menghabiskan waktu dan tenaga para pekerja.
+
+## _Github Stats_
+
+![Ikang's github stats](https://github-readme-stats.vercel.app/api?username=ikanx101)
+
+## _My most used language in Github_
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikanx101)
+
+Kadang statistik bisa menipu. Saya seorang __R__ _user_ tulen. Github saya jadikan _backbone_ menulis blog. Mungkin karena itu jadi muncul `html` _yah_.
 
 *Feel free to discuss yah*…
