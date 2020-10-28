@@ -8,7 +8,7 @@ Fadhli**](www.linkedin.com/in/mohammad-rizka-fadhli-101).
 
 Saya seorang *mathematician* yang berkecimpung di dunia *market
 research* dan *data science*. Perjalanan saya dimulai sejak kuliah di
-Matematika ITB lalu bekerja di salah satu *market research
+Matematika lalu bekerja di salah satu *market research
 agency* belasan tahun lalu. Kini saya bekerja di salah satu *FMCG company* terbesar di Indonesia.
 
 Mulai beberapa tahun lalu, dunia *market research* yang saya geluti
