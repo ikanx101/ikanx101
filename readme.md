@@ -5,7 +5,7 @@ Assalamu’alaikum…
 
 Halo, perkenalkan nama saya **Ikang**.
 
-Saya seorang *mathematician* yang berkecimpung di dunia *market
+Saya seorang *mathematician* dan _computational scientist_ yang berkecimpung di dunia *market
 research* dan *data science*. 
 
 Saya menulis `2` buah *blog* terkait perjalanan saya di kedua bidang
